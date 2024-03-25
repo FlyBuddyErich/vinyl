@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"Travis Scott - UTOPIA",
+        "price": 4990,
+        "image": "images/vinyl1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Allie X - Girl With No Face",
+        "price": 5990,
+        "image": "images/vinyl2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"IDLES - TANGK",
+        "price": 4990,
+        "image": "images/vinyl3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" The Beatles - Abbey Road",
+        "price": 7990,
+        "image": "images/vinyl4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"SALUKI - WILD EAST",
+        "price": 5990,
+        "image": "images/vinyl5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Daughters - You Won't Get What You Want",
+        "price": 8990,
+        "image": "images/vinyl6.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Bring Me The Horizon - Amo",
+        "price": 6990,
+        "image": "images/vinyl7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"SAULT - 5",
+        "price": 5990,
+        "image": "images/vinyl9.jpg"
+    }
+
+]
