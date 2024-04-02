@@ -67,9 +67,7 @@ html {
 
   .active {
     display: flex;
-    width: 100%;
-    margin-top: 5px;
-    padding: 12px;
+    
   }
 
   .active1 {
@@ -181,7 +179,7 @@ h1{
 
 .middleArticle {
     font-family: 'Oswald', sans-serif;
-    font-size: 86px;
+    font-size: 98px;
     font-weight: bold;
     color: #f1ebd9;
     transition: 0.5s;
@@ -201,7 +199,7 @@ h1{
 
 .middleText {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+    font-size: 35px;
     color: #f1ebd9;
     
 }
@@ -220,7 +218,6 @@ h1{
 }
 
 .containerHigh {
-    
     background-image: url(images/back1.jpg);
     background-size: cover;
     width: 100%;
